@@ -37,6 +37,11 @@ html {
       height: 200px;
       object-fit: cover;
     }
+
+    .card-guide-img {
+      height: auto;
+      object-fit: scale-down;
+    }
   
     .card-text {
       min-height: 100px;
