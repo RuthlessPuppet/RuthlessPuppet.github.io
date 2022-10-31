@@ -40,6 +40,13 @@ body {
     object-fit: cover;
 }
 
+.apps .card-guide-img,
+.games .card-guide-img {
+    height: auto;
+    -o-object-fit: scale-down;
+    object-fit: scale-down;
+}
+
 .apps .card-text,
 .games .card-text {
     min-height: 100px;
