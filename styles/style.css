@@ -1,12 +1,15 @@
-html {
+html 
+{
     scroll-behavior: smooth;
 }
 
-body {
-    background: rgb(177, 177, 255);
+body 
+{
+    background: rgb(52, 52, 117);
     background-repeat: no-repeat;
 }
 
-#canvas {
-    background:white;
+div
+{
+    outline: thick double rgb(0,255,0);
 }
